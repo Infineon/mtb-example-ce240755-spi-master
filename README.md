@@ -6,7 +6,7 @@ This code example demonstrates the use of a SPI resource in master mode. The SPI
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-ce240755-spi-master)
 
-[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA3NTUiLCJTcGVjIE51bWJlciI6IjAwMi00MDc1NSIsIkRvYyBUaXRsZSI6IlBETDogU1BJIG1hc3RlciIsInJpZCI6ImtvamkubWl6dW1vdG9AaW5maW5lb24uY29tIiwiRG9jIHZlcnNpb24iOiIyLjIuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJBVVRPIiwiRG9jIEZhbWlseSI6IkFVVE8gTUNVIn0=)
+[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA3NTUiLCJTcGVjIE51bWJlciI6IjAwMi00MDc1NSIsIkRvYyBUaXRsZSI6IlBETDogU1BJIG1hc3RlciIsInJpZCI6ImtvamkubWl6dW1vdG9AaW5maW5lb24uY29tIiwiRG9jIHZlcnNpb24iOiIyLjMuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJBVVRPIiwiRG9jIEZhbWlseSI6IkFVVE8gTUNVIn0=)
 
 ## Requirements
 
@@ -331,6 +331,7 @@ Document title: *CE240755* – *PDL: SPI master*
 | 2.0.0   | Updated to support ModusToolbox&trade; software v3.4      |
 | 2.1.0   | Added support for KIT_T2G-B-H_EVK, KIT_T2G-B-H_LITE and KIT_T2G_C-2D-4M_LITE, and updated to support ModusToolbox&trade; v3.6. |
 | 2.2.0   | Added support for KIT_T2G_B-H-16M_LITE, and updated to support ModusToolbox&trade; v3.7. |
+  2.3.0   | Updated design.modus of the KIT_T2G_B-H-16M_LITE and KIT_T2G_C-2D-4M_LITE for addressing CLK warning      |
 <br>
 
 All referenced product or service names and trademarks are the property of their respective owners.
